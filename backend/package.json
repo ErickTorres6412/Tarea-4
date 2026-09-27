@@ -1,0 +1,14 @@
+{
+  "name": "bookstore-rabbitmq-backend",
+  "version": "1.0.0",
+  "description": "Tarea 4 - backend Bookstore con actualizaciones diferidas (Netlify Functions + Neon + CloudAMQP)",
+  "scripts": {
+    "dev": "netlify dev --port 8888",
+    "seed": "node --env-file=.env seed.js"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.1.0",
+    "@netlify/database": "^2.0.1",
+    "amqplib": "^2.1.0"
+  }
+}
