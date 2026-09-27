@@ -3,7 +3,7 @@
 **Curso:** EIF508 — Sistemas Distribuidos
 **Estudiante:** Erick Torres Hernandez
 **Backend publicado (Netlify):** <https://bookstore-rabbitmq-erick.netlify.app>
-**Frontend publicado:** _(completar, p. ej. `https://usuario.github.io/tarea4-bookstore/`)_
+**Frontend publicado (GitHub Pages):** <https://ericktorres6412.github.io/Tarea-4/>
 
 Basada en el [Tutorial 9 — RabbitMQ](https://distribuidos-una.netlify.app/#/practicas/Tutorial9_RabbitMQ)
 y en su [código](https://github.com/armando-arce/Tutoriales-Distribuidos/tree/main/Tutorial9).
